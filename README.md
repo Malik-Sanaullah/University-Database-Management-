@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563eb,50:7c3aed,100:9333ea&text=University%20Database%20Management%20System&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Academic%20Information%20Platform&descAlignY=58&animation=fadeIn" width="100%" />
@@ -522,4 +521,3 @@ This project is developed strictly for academic and educational purposes.
 <img src="https://img.shields.io/badge/FAST--NUCES-Spring%202025-2563eb?style=for-the-badge"/>
 
 </div>
-```

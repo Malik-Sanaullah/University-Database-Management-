@@ -44,6 +44,16 @@ National University of Computer
 Database Systems Lab  
 Spring 2025
 
+<br/>
+
+**Theory Instructor**  
+Sir Shoaib Khan
+
+<br/>
+
+**Lab Instructor**  
+Muhammad Mehdi
+
 </td>
 
 <td align="center" width="33%">
@@ -65,14 +75,14 @@ Group #13
 
 <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="90"/>
 
-### Ibrahim Khatak
+### Muhammad Ibrahim Khatak
 `24P-0648`
 
 </td>
 
 <td align="center">
 
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="90"/>
+<img width="102" height="102" alt="WhatsApp Image 2026-05-03 at 4 35 08 AM" src="https://github.com/user-attachments/assets/641d0501-db2a-4bcc-ae2d-aec3719de333" />
 
 ### Malik Muhammad Sanaullah
 `24P-0554`
@@ -90,18 +100,18 @@ Group #13
 - [📌 Project Overview](#-project-overview)
 - [📊 Project Snapshot](#-project-snapshot)
 - [✨ Core Features](#-core-features)
-- [🏗️ System Architecture](#️-system-architecture)
-- [🗃️ Database Design](#️-database-design)
+- [🏗 System Architecture](#-system-architecture)
+- [🗃 Database Design](#-database-design)
 - [📁 File Structure](#-file-structure)
-- [⚙️ Backend API](#️-backend-api)
-- [🖥️ Frontend Pages](#️-frontend-pages)
+- [⚙ Backend API](#-backend-api)
+- [🖥 Frontend Pages](#-frontend-pages)
 - [🚀 Getting Started](#-getting-started)
 - [🧠 Stored Procedures](#-stored-procedures)
-- [👁️ Views](#️-views)
+- [👁 Views](#-views)
 - [⚡ Triggers](#-triggers)
 - [🔍 Sample Queries](#-sample-queries)
 - [📸 Application Preview](#-application-preview)
-- [🛠️ Tech Stack](#️-tech-stack)
+- [🛠 Tech Stack](#-tech-stack)
 - [🤝 Contribution](#-contribution)
 - [📜 License](#-license)
 
@@ -172,7 +182,7 @@ The project demonstrates real-world database design principles including:
 
 ---
 
-# 🏗️ System Architecture
+# 🏗 System Architecture
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
@@ -199,7 +209,7 @@ The project demonstrates real-world database design principles including:
 
 ---
 
-# 🗃️ Database Design
+# 🗃 Database Design
 
 ## 📌 Main Entities
 
@@ -271,7 +281,7 @@ The project demonstrates real-world database design principles including:
 
 ---
 
-# ⚙️ Backend API
+# ⚙ Backend API
 
 | Method | Endpoint                      | Description             |
 | ------ | ----------------------------- | ----------------------- |
@@ -288,7 +298,7 @@ The project demonstrates real-world database design principles including:
 
 ---
 
-# 🖥️ Frontend Pages
+# 🖥 Frontend Pages
 
 | Page       | Features                                   |
 | ---------- | ------------------------------------------ |
@@ -390,7 +400,7 @@ frontend/index.html
 
 ---
 
-# 👁️ Views
+# 👁 Views
 
 | View                         | Description              |
 | ---------------------------- | ------------------------ |
@@ -432,7 +442,8 @@ The project contains 15 SQL queries demonstrating:
 ## 🏠 Dashboard
 
 <p align="center">
-<img src="./screenshots/dashboard.png" width="90%">
+  <img width="419" height="419" alt="Dashboard" src="https://github.com/user-attachments/assets/af2f3cb5-a141-475b-85fb-df80b5c0007f" />
+
 </p>
 
 ---
@@ -440,7 +451,8 @@ The project contains 15 SQL queries demonstrating:
 ## 👨‍🎓 Students Management
 
 <p align="center">
-<img src="./screenshots/students.png" width="90%">
+  <img width="334" height="410" alt="Students" src="https://github.com/user-attachments/assets/64f9b253-8eb4-4641-b8e3-fdb916899d54" />
+
 </p>
 
 ---
@@ -448,7 +460,15 @@ The project contains 15 SQL queries demonstrating:
 ## 📚 Courses & Schedule
 
 <p align="center">
-<img src="./screenshots/courses.png" width="90%">
+<img width="700" alt="Course-Catalogue" src="https://github.com/user-attachments/assets/de4f8eab-cac1-40c6-8646-7dd7513f027a" />
+</p>
+
+<br/>
+
+<p align="center">
+<img width="420" alt="Class-Schedule" src="https://github.com/user-attachments/assets/31feee3d-85da-4706-8cdf-afdff67e9bf9" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="420" alt="All-Courses" src="https://github.com/user-attachments/assets/495eb1ad-b97d-4a33-ab6e-5278d4c76be8" />
 </p>
 
 ---
@@ -456,12 +476,13 @@ The project contains 15 SQL queries demonstrating:
 ## 📄 Transcript Viewer
 
 <p align="center">
-<img src="./screenshots/transcript.png" width="90%">
+  <img width="428" height="361" alt="Transcript" src="https://github.com/user-attachments/assets/89040b62-304f-4395-88e6-14a3492e0805" />
+
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
@@ -521,3 +542,4 @@ This project is developed strictly for academic and educational purposes.
 <img src="https://img.shields.io/badge/FAST--NUCES-Spring%202025-2563eb?style=for-the-badge"/>
 
 </div>
+```
